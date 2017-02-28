@@ -94,6 +94,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### PHP
 - [PHP Dersleri](http://ibrahimcevruk.com/kat/php-dersleri) - [İbrahim Çevrük](http://ibrahimcevruk.com)
+- [Orta Düzey PHP Dersleri](https://www.youtube.com/watch?v=ZYDN0x7fhuM&list=PLfAfrKyDRWrGWfcTe4yOcRhsMgIXri00u) - [Tayfun Erbilen](http://www.erbilen.net)
 
 
 ### Rails
@@ -150,3 +151,4 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Yalin Kod](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ)
 - [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 - [Okan Davut](https://www.youtube.com/channel/UCD9xZqZn8YHkm-6XnmdgYGg)
+- [Tayfun Erbilen](https://www.youtube.com/channel/UC1VAnqF9VLHNXngLwpov4kA)
